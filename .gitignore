@@ -1,0 +1,11 @@
+# HackOrganizer v3 — Blueprint project
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*-backups/
+fp-info-cache
+*.lck
+*.000
+*-rescue.kicad_sch
