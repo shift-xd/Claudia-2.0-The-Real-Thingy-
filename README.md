@@ -8,7 +8,7 @@ Claudia is a pocket ai chatbot that is designed to be your personal assistant in
 ## Claudia is a Pcb Project 
 Solder the componenets on the pcb links of components is in BOM.csv tbh you can find it on the internet too lmao :) 
 
-##Firmware (Either upload mine or create your own :) ) 
+## Firmware (Either upload mine or create your own :) ) 
 <img width="1147" height="348" alt="image" src="https://github.com/user-attachments/assets/9343c034-cf78-4265-bf68-af29fc7ca8ea" />
 
 
