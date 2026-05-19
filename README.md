@@ -11,7 +11,6 @@ Solder the componenets on the pcb and uplaod the firmware :)
 ### PCB 
 <img width="3464" height="2067" alt="Picsart_26-05-19_11-45-46-475" src="https://github.com/user-attachments/assets/575b5ecc-75d7-415f-a4ba-5d3c55f48493" />
 
-<img width="684" height="437" alt="Screenshot From 2026-05-14 22-41-00" src="https://github.com/user-attachments/assets/afc37b03-e8fd-43d9-967b-aedc9fa96173" />
 
 ### Schematics 
 <img width="684" height="437" alt="Schematics" src="https://github.com/user-attachments/assets/3c045e4e-6fb7-4f7a-91d7-9aad921a2f76" />
