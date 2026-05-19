@@ -6,7 +6,11 @@ Named after the seceratry in the German Beauro office who's pc got hacked by rus
 Claudia is a pocket ai chatbot that is designed to be your personal assistant in pocket tasks ! 
 
 ## Claudia is a Pcb Project 
-Solder the componenets on the pcb and uplaod the firmware :) 
+Solder the componenets on the pcb links of components is in BOM.csv tbh you can find it on the internet too lmao :) 
+
+##Firmware (Either upload mine or create your own :) ) 
+<img width="1147" height="348" alt="image" src="https://github.com/user-attachments/assets/9343c034-cf78-4265-bf68-af29fc7ca8ea" />
+
 
 ### PCB 
 <img width="3464" height="2067" alt="Picsart_26-05-19_11-45-46-475" src="https://github.com/user-attachments/assets/575b5ecc-75d7-415f-a4ba-5d3c55f48493" />
