@@ -1,5 +1,7 @@
 ## Claudia Hyde Or Claudia 2.0 ! 
 
+<img width="3464" height="2067" alt="Picsart_26-05-19_11-44-55-898" src="https://github.com/user-attachments/assets/6f376efa-a92c-4571-aabd-a25c855338ba" />
+
 Named after the seceratry in the German Beauro office who's pc got hacked by russia lol , named was kinda sick 
 Claudia is a pocket ai chatbot that is designed to be your personal assistant in pocket tasks ! 
 
@@ -7,7 +9,8 @@ Claudia is a pocket ai chatbot that is designed to be your personal assistant in
 Solder the componenets on the pcb and uplaod the firmware :) 
 
 ### PCB 
-<img width="684" height="437" alt="Pcb" src="https://github.com/user-attachments/assets/1ef36993-c897-4200-91db-c79a33995f69" />
+<img width="3464" height="2067" alt="Picsart_26-05-19_11-45-46-475" src="https://github.com/user-attachments/assets/575b5ecc-75d7-415f-a4ba-5d3c55f48493" />
+
 <img width="684" height="437" alt="Screenshot From 2026-05-14 22-41-00" src="https://github.com/user-attachments/assets/afc37b03-e8fd-43d9-967b-aedc9fa96173" />
 
 ### Schematics 
