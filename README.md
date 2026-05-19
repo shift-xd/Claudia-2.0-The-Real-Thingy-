@@ -22,6 +22,10 @@ There is a firmware.bin file in the firmware/software folder you can copy / down
 ### Schematics 
 <img width="3464" height="2067" alt="Schematics" src="https://github.com/user-attachments/assets/3c045e4e-6fb7-4f7a-91d7-9aad921a2f76" />
 
-### Claudia  lives  here (the housing) 3d render and 3d parts seperated 
-
+### Claudia  lives  here (the housing) 3D render and 3D parts seperated available in repo :) 
 <img width="3464" height="2067" alt="Screenshot From 2026-05-15 20-54-21" src="https://github.com/user-attachments/assets/379b4338-0cb4-4447-a1b3-3ed610d870b0" />
+
+### About Printing the Casing :) 
+Read the image below :) 
+<img width="934" height="429" alt="image" src="https://github.com/user-attachments/assets/218cba19-132d-4d13-bfb5-343b4c2f659b" />
+
